@@ -1,13 +1,13 @@
 {
- "at_utc": "2026-11-24T07:01:53Z",
+ "at_utc": "2026-11-24T07:09:14Z",
  "notes": [],
  "apewisdom": [
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "mentions": 1822,
-   "mentions_24h_ago": 400,
-   "growth_pct": 356,
+   "mentions": 1821,
+   "mentions_24h_ago": 403,
+   "growth_pct": 352,
    "rank": 1,
    "rank_24h_ago": 1,
    "upvotes": 30912
@@ -16,21 +16,21 @@
    "ticker": "SPY",
    "name": "SPDR S&P 500 ETF Trust",
    "mentions": 390,
-   "mentions_24h_ago": 159,
-   "growth_pct": 145,
+   "mentions_24h_ago": 161,
+   "growth_pct": 142,
    "rank": 2,
    "rank_24h_ago": 2,
-   "upvotes": 1168
+   "upvotes": 1167
   },
   {
    "ticker": "QQQ",
    "name": "Invesco QQQ ETF",
    "mentions": 196,
-   "mentions_24h_ago": 110,
-   "growth_pct": 78,
+   "mentions_24h_ago": 111,
+   "growth_pct": 77,
    "rank": 3,
    "rank_24h_ago": 3,
-   "upvotes": 437
+   "upvotes": 432
   },
   {
    "ticker": "HR",
@@ -39,8 +39,8 @@
    "mentions_24h_ago": 3,
    "growth_pct": 4800,
    "rank": 4,
-   "rank_24h_ago": 366,
-   "upvotes": 2154
+   "rank_24h_ago": 118,
+   "upvotes": 2155
   },
   {
    "ticker": "AMD",
@@ -50,27 +50,27 @@
    "growth_pct": 137,
    "rank": 5,
    "rank_24h_ago": 4,
-   "upvotes": 307
+   "upvotes": 306
   },
   {
    "ticker": "NYT",
    "name": "New York Times",
    "mentions": 95,
-   "mentions_24h_ago": 42,
-   "growth_pct": 126,
+   "mentions_24h_ago": 41,
+   "growth_pct": 132,
    "rank": 6,
-   "rank_24h_ago": 17,
+   "rank_24h_ago": 13,
    "upvotes": 454
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 86,
+   "mentions": 85,
    "mentions_24h_ago": 42,
-   "growth_pct": 105,
+   "growth_pct": 102,
    "rank": 7,
-   "rank_24h_ago": 8,
-   "upvotes": 482
+   "rank_24h_ago": 7,
+   "upvotes": 483
   },
   {
    "ticker": "DTE",
@@ -80,7 +80,7 @@
    "growth_pct": 81,
    "rank": 8,
    "rank_24h_ago": 6,
-   "upvotes": 320
+   "upvotes": 316
   },
   {
    "ticker": "VOO",
@@ -89,18 +89,28 @@
    "mentions_24h_ago": 40,
    "growth_pct": 50,
    "rank": 9,
-   "rank_24h_ago": 7,
+   "rank_24h_ago": 8,
    "upvotes": 119
   },
   {
    "ticker": "AM",
    "name": "Antero Midstream",
    "mentions": 54,
-   "mentions_24h_ago": 20,
-   "growth_pct": 170,
+   "mentions_24h_ago": 21,
+   "growth_pct": 157,
    "rank": 10,
-   "rank_24h_ago": 15,
-   "upvotes": 115
+   "rank_24h_ago": 17,
+   "upvotes": 113
+  },
+  {
+   "ticker": "MAGA",
+   "name": "ETF Series Solutions Trust - Point Bridge GOP Stock Tracker ETF",
+   "mentions": 52,
+   "mentions_24h_ago": 10,
+   "growth_pct": 420,
+   "rank": 11,
+   "rank_24h_ago": 85,
+   "upvotes": 661
   },
   {
    "ticker": "DJT",
@@ -108,19 +118,9 @@
    "mentions": 52,
    "mentions_24h_ago": 5,
    "growth_pct": 940,
-   "rank": 11,
-   "rank_24h_ago": 90,
-   "upvotes": 13884
-  },
-  {
-   "ticker": "MAGA",
-   "name": "ETF Series Solutions Trust - Point Bridge GOP Stock Tracker ETF",
-   "mentions": 52,
-   "mentions_24h_ago": 11,
-   "growth_pct": 373,
    "rank": 12,
-   "rank_24h_ago": 74,
-   "upvotes": 662
+   "rank_24h_ago": 92,
+   "upvotes": 13884
   },
   {
    "ticker": "SOXL",
@@ -135,11 +135,11 @@
   {
    "ticker": "ALL",
    "name": "Allstate",
-   "mentions": 50,
+   "mentions": 49,
    "mentions_24h_ago": 13,
-   "growth_pct": 285,
+   "growth_pct": 277,
    "rank": 14,
-   "rank_24h_ago": 40,
+   "rank_24h_ago": 38,
    "upvotes": 139
   },
   {
@@ -149,47 +149,31 @@
    "mentions_24h_ago": 25,
    "growth_pct": 96,
    "rank": 15,
-   "rank_24h_ago": 14,
-   "upvotes": 1131
+   "rank_24h_ago": 12,
+   "upvotes": 1129
   }
  ],
  "stocktwits": [
   {
    "ticker": "SKYD",
    "name": "Skydance Corp. - Ordinary Shares - Class B",
-   "score": 6.97447,
-   "why": "SKYDs sharp post-earnings selloff is driving discussion, with traders focused on the heavy debt from the Warner Bros. Discovery merger, dilution risk and uncertainty about whether promised cost savings can offset the burden. Bulls call the shares undervalued and point to potential synergies, while some blame short sellers; talk of a SpaceX partnership remains speculative.",
-   "why_at": "2026-11-24T06:47:48Z",
-   "watchers": 27401
-  },
-  {
-   "ticker": "BABA",
-   "name": "Alibaba Group Holding Ltd",
-   "score": 6.03376,
-   "why": "Alibabas Apex subsidiary being placed on the U.S. trade blacklist has renewed concern that export restrictions could limit chip access and weigh on its AI and cloud ambitions. Traders are split between seeing the restrictions and recent earnings concerns as further risks, and arguing that strong cloud growth and the stocks low valuation support a bullish case.",
-   "why_at": "2026-11-24T06:53:03Z",
-   "watchers": 425650
+   "score": 6.68241,
+   "why": "A sharp post-earnings slide following the Warner Bros. Discovery merger is driving attention, with traders focused on the combined companys heavy debt burden, dilution risk and ability to deliver promised synergies. Bulls point to cost-saving and streaming opportunities as a path to a turnaround, while skeptics worry that leverage and integration risks outweigh the potential.",
+   "why_at": "2026-11-24T07:03:03Z",
+   "watchers": 27402
   },
   {
    "ticker": "INSM",
    "name": "Insmed Inc",
-   "score": 5.88832,
-   "why": "Reports that Sanofi is weighing a takeover of Insmed have driven the dominant discussion, with traders debating possible offer terms and whether other pharmaceutical companies could emerge as bidders. The acquisition remains unconfirmed, and some traders are also weighing the takeover speculation against Insmeds commercial growth and pipeline prospects.",
-   "why_at": "2026-11-24T06:42:54Z",
+   "score": 5.87096,
+   "why": "Speculation that Sanofi is weighing an acquisition of Insmed is driving attention and a sharp rally. Traders are debating whether Sanofi or another pharma could make an offer, but no deal has been confirmed.",
+   "why_at": "2026-11-24T07:03:01Z",
    "watchers": 3423
-  },
-  {
-   "ticker": "HPE",
-   "name": "Hewlett Packard Enterprise Co",
-   "score": 5.4713,
-   "why": "HPEs strong quarterly results and raised full-year outlook are drawing attention, but shares fell after the report as traders focused on margin pressure from memory and component costs and a near-term outlook that missed the most optimistic expectations. Bulls point to continued AI infrastructure demand and the buyback, while others see the post-earnings drop as a warning about profitability.",
-   "why_at": "2026-11-24T06:42:54Z",
-   "watchers": 14204
   },
   {
    "ticker": "RDW",
    "name": "Redwire Corp",
-   "score": 5.37382,
+   "score": 5.49195,
    "why": "Redwires rebound is drawing attention after CEO Peter Cannito disclosed another share purchase, even as Mizuho initiated coverage with an Underperform rating. Traders are weighing the insider buying, record backlog and recent contract wins against concerns about execution, backlog conversion and cash flow.",
    "why_at": "2026-11-24T06:53:00Z",
    "watchers": 24179
@@ -197,82 +181,98 @@
   {
    "ticker": "BMNR",
    "name": "BitMine Immersion Technologies Inc",
-   "score": 5.36559,
-   "why": "Ethereums decline is pressuring BitMines ETH-heavy treasury and fueling bearish commentary. Traders are also questioning managements capital allocationespecially the lack of buybacks and an undisclosed moonshot investmentwhile some see the discount to asset value as an opportunity if ETH rebounds.",
-   "why_at": "2026-11-24T06:42:53Z",
+   "score": 5.38462,
+   "why": "BitMines ETH-heavy treasury is under pressure as Ether falls, while traders are focused on an undisclosed $50 million investment and the lack of buybacks despite shares trading below the value of its crypto holdings. Frustrated calls for transparency and shareholder returns contrast with bullish holders who view the discount and continued ETH accumulation as an opportunity.",
+   "why_at": "2026-11-24T07:03:00Z",
    "watchers": 29396
   },
   {
-   "ticker": "APPS",
-   "name": "Digital Turbine Inc",
-   "score": 4.9298,
-   "why": "Digital Turbines earnings sparked a sharp selloff despite beating expectations and raising its revenue outlook, with traders focused on margin compression, an unchanged profit forecast, accounting-control concerns and debt. The community is divided between viewing the decline as an overreaction to growth investments and arguing that revenue growth must translate into stronger profitability; some a",
-   "why_at": "2026-11-24T06:47:50Z",
-   "watchers": 25237
+   "ticker": "AVAV",
+   "name": "AeroVironment Inc.",
+   "score": 4.83749,
+   "why": "AeroVironments steep selloff and repeated lows dominate discussion, with traders split on whether recent drone and laser-defense contract wins and counter-drone demand can support a recovery. Bearish comments point to execution concerns and allegations in an early-stage securities lawsuit over the SCAR program after the BlueHalo deal; the allegations remain unproven.",
+   "why_at": "2026-11-24T07:03:05Z",
+   "watchers": 13986
   },
   {
    "ticker": "MOD",
    "name": "Modine Manufacturing Co.",
    "score": 4.83749,
-   "why": "Reported Samsung talks to acquire Modine have sparked a sharp rally, though no deal or terms are confirmed. Traders are split between anticipating a substantial takeover premium and warning that the rumor-driven gain could fade; the companys data-center cooling growth and investor-day outlook also feature in the bullish case.",
-   "why_at": "2026-11-24T06:47:48Z",
+   "why": "Reported Samsung acquisition talks have driven attention to Modine, but no deal has been confirmed. Traders are divided between expecting a substantial takeover premium and viewing the speculation as an unconfirmed pump that could fade; the companys data-center cooling growth adds strategic context.",
+   "why_at": "2026-11-24T07:03:02Z",
    "watchers": 3168
+  },
+  {
+   "ticker": "BABA",
+   "name": "Alibaba Group Holding Ltd",
+   "score": 4.134,
+   "why": "Alibabas Apex subsidiary being placed on the U.S. trade blacklist has renewed concern that export restrictions could limit chip access and weigh on its AI and cloud ambitions. Traders are split between seeing the restrictions and recent earnings concerns as further risks, and arguing that strong cloud growth and the stocks low valuation support a bullish case.",
+   "why_at": "2026-11-24T06:53:03Z",
+   "watchers": 425651
   },
   {
    "ticker": "SLV",
    "name": "iShares Silver Trust",
-   "score": 4.27004,
+   "score": 3.92827,
    "why": "SLV is drawing attention amid a steep silver selloff, which traders link to rising Fed rate-hike expectations, a stronger dollar, and broader liquidity pressure. The community is divided between calling the decline an oversold buying opportunity and expecting further losses, with some also alleging manipulation or pointing to premiums on physical silver.",
    "why_at": "2026-11-24T06:52:59Z",
-   "watchers": 62176
-  },
-  {
-   "ticker": "DELL",
-   "name": "Dell Technologies Inc",
-   "score": 4.0109,
-   "why": "A broad AI-stock rebound following Nvidias reinstatement of Jensen Huang drove DELLs sharp rally as traders positioned ahead of Dells earnings report. Bulls cite AI-server demand, while skeptics question whether rising component costs and thin margins will translate into profits.",
-   "why_at": "2026-11-24T06:57:57Z",
-   "watchers": 32264
-  },
-  {
-   "ticker": "SONY",
-   "name": "Sony Group Corporation",
-   "score": 3.44252,
-   "why": "",
-   "why_at": null,
-   "watchers": 20718
-  },
-  {
-   "ticker": "DJIA",
-   "name": "Global X Dow 30 Covered Call ETF",
-   "score": 3.37942,
-   "why": "",
-   "why_at": null,
-   "watchers": 84294
+   "watchers": 62177
   },
   {
    "ticker": "MSTZ",
    "name": "T-Rex 2X Inverse MSTR Daily Target ETF",
-   "score": 3.27642,
-   "why": "",
-   "why_at": null,
+   "score": 3.27728,
+   "why": "Bitcoins rebound and the accompanying rise in Strategy (MSTR) have weighed on the 2x inverse MSTZ ETF, while traders debate its tracking and volatility. Some continue to use it for bearish MSTR bets, while others question why it has not moved as expected relative to Bitcoin and MSTR.",
+   "why_at": "2026-11-24T07:07:50Z",
    "watchers": 2062
   },
   {
-   "ticker": "AVAV",
-   "name": "AeroVironment Inc.",
+   "ticker": "OCUL",
+   "name": "Ocular Therapeutix Inc",
+   "score": 3.2307,
+   "why": "Recent wet-AMD competitor updates, especially Kodiaks Zenkuda results, have fueled concern that rivals are raising the bar and weighing on confidence in Oculars AXPAXLI program. Traders are divided on whether that weakens the outlook or whether AXPAXLIs SOL-1 results remain differentiated, while many are watching for the planned NDA filing as the next major catalyst.",
+   "why_at": "2026-11-24T07:07:51Z",
+   "watchers": 12279
+  },
+  {
+   "ticker": "DIS",
+   "name": "Walt Disney Co",
    "score": 3.2307,
    "why": "",
    "why_at": null,
-   "watchers": 13986
+   "watchers": 289883
   },
   {
-   "ticker": "SQQQ",
-   "name": "ProShares UltraPro Short QQQ",
-   "score": 3.10928,
+   "ticker": "NVDL",
+   "name": "GraniteShares 2x Long NVDA Daily ETF",
+   "score": 2.89075,
    "why": "",
    "why_at": null,
-   "watchers": 43362
+   "watchers": 5753
+  },
+  {
+   "ticker": "T",
+   "name": "AT&T Inc",
+   "score": 2.82976,
+   "why": "",
+   "why_at": null,
+   "watchers": 110908
+  },
+  {
+   "ticker": "TGTX",
+   "name": "TG Therapeutics Inc",
+   "score": 2.51084,
+   "why": "",
+   "why_at": null,
+   "watchers": 21951
+  },
+  {
+   "ticker": "UVXY",
+   "name": "ProShares Ultra VIX Short-Term Futures ETF",
+   "score": 2.44867,
+   "why": "",
+   "why_at": null,
+   "watchers": 85163
   }
  ]
 }
